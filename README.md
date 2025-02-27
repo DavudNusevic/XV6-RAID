@@ -5,6 +5,7 @@ This project involves the implementation of RAID structures on the **xv6** opera
 1. **Part 1**: Implementation of basic RAID levels (RAID0, RAID1, RAID0+1) with support for disk failure management.
 2. **Part 2**: Adding support for RAID4 and RAID5, and ensuring thread-safe access in a multi-threaded environment.
 
+
 ## Requirements
 
 - **Language**: C
